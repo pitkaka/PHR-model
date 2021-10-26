@@ -1,6 +1,7 @@
 # Data Collection
 
 **Introduction:**
+**Introduction:**
 
 Data collection is a process of identifying the data sources for the TTPs identified in the Hypothesis step and collection of the data from the target systems. Identification of the data sources requires knowledge about the techniques used by the adversaries and the kind of data they produce, for example, files, logs or flow records. The correct mapping of data sources to adversary techniques is crucial for reducing false positives and amount of collected data. The [MITRE ATT&CK](https://attack.mitre.org/) knowledge base is a great starting point for getting information about the adversary tactics, techniques, tools and data sources.
 
